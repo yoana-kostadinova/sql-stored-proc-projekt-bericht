@@ -1,4 +1,4 @@
---have in mind parts of code have been purousely deleted
+--have in mind parts of code have been purposefully deleted
 
 
 CREATE PROCEDURE ProjectReport (IN ProjectName NVARCHAR(100))
